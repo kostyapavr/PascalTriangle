@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kotya\\Documents\\ProgEngProject\\PascalTriangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48289CB0-1C10-4761-B794-83B0BC44624C}|PascalTriangle.vcxproj|C:\\Users\\kotya\\Documents\\ProgEngProject\\PascalTriangle\\PascalTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48289CB0-1C10-4761-B794-83B0BC44624C}|PascalTriangle.vcxproj|solutionrelative:PascalTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PascalTriangle.cpp",
+              "DocumentMoniker": "C:\\Users\\kotya\\Documents\\ProgEngProject\\PascalTriangle\\PascalTriangle.cpp",
+              "RelativeDocumentMoniker": "PascalTriangle.cpp",
+              "ToolTip": "C:\\Users\\kotya\\Documents\\ProgEngProject\\PascalTriangle\\PascalTriangle.cpp",
+              "RelativeToolTip": "PascalTriangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T14:13:57.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
